@@ -1,0 +1,36 @@
+[
+	{
+		"names": [
+			"LS(LC(LA(LGUI)))"
+		],
+		"description": "LS(LC(LA(LGUI)))",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
+	},
+	{
+		"names": [
+			"LS(LC(LA))"
+		],
+		"description": "LS(LC(LA))",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
+	}
+]
